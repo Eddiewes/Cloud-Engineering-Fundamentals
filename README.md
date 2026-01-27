@@ -1,4 +1,4 @@
-# Cloud-Engineering-Fundamentals-
+# Cloud-Engineering-Fundamentals
 # AWS Well-Architected & Cloud Adoption Framework Assessment
 
 ## Overview
