@@ -2,7 +2,7 @@
 # AWS Well-Architected & Cloud Adoption Framework Assessment
 
 ## Overview
-This repository contains the design and evaluation of a two-tier web application migrated from an on-premises environment to AWS. The assessment applies the **AWS Well-Architected Framework (WAF)** and the **AWS Cloud Adoption Framework (CAF)** to evaluate the workload, identify risks, and propose architectural improvements aligned with AWS best practices.
+This repository contains the design and evaluation of a two-tier web application migrated from an on-premises environment to AWS. The assessment applies the AWS Well-Architected Framework (WAF) and the AWS Cloud Adoption Framework (CAF) to evaluate the workload, identify risks, and propose architectural improvements aligned with AWS best practices.
 
 The goal of this lab is to demonstrate the ability to think like a cloud architect by critically analyzing an existing system, applying industry-recognized frameworks, and clearly communicating architectural decisions.
 
