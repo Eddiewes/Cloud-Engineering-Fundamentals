@@ -113,7 +113,7 @@ To achieve operational excellence in the cloud, the organisation must shift from
 ---
 
 ## Task 4 – Improved Architecture Design
-
+![AWS Architecture Diagram](images/aws_architecture_diagram.png)
 ### Architecture Overview
 
 The improved architecture is a two-tier (web + database) AWS deployment, redesigned to be highly available, secure, scalable, and cost-efficient. It replaces the single-AZ, directly-exposed EC2 setup with a multi-layered architecture spanning two Availability Zones.
